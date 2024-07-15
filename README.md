@@ -1,6 +1,6 @@
 # PowerBI_Dashboard
 Power BI project using e-commerce sales data
-KPIs: Display cards for key metrics.
+KPIs: Display cards for key metrics. <br>
 Geographic Sales: Bar charts.
 Category Analysis: Donut chart for quantity distribution and bar chart for profit by sub-category.
 Monthly Profit/Loss: Line chart.
